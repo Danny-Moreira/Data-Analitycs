@@ -1,4 +1,4 @@
-Análisis e Insights de Datos
+ANÁLISIS E INSIGHTS
 
 Este repositorio contiene proyectos de análisis de datos aplicados a diferentes áreas de negocio, con enfoque en generar insights accionables que apoyen la toma de decisiones estratégicas.
 
@@ -31,11 +31,7 @@ Herramientas: Python, SQL, Power BI.
 
 Lenguajes: Python, SQL
 
-Visualización: Matplotlib, Seaborn, Power BI
-
-Machine Learning: Scikit-learn
-
-Bases de datos: SQL Server, MySQL
+Visualización: Matplotlib, Seaborn
 
 🚀 Objetivo
 
